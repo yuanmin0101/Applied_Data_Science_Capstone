@@ -1,3 +1,1 @@
-# testrepo
-## Editing the file 
-Its a markdown file in this repository.
+## Final project for Applied Data Science Capstone. 
